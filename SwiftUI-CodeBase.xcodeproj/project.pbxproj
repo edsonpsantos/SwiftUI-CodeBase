@@ -13,6 +13,7 @@
 		2D2497AE2B56CC7700CBB32D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D2497AD2B56CC7700CBB32D /* Preview Assets.xcassets */; };
 		2D2497BB2B56CE7900CBB32D /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497BA2B56CE7900CBB32D /* TextView.swift */; };
 		2D2497BD2B56D0A800CBB32D /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497BC2B56D0A800CBB32D /* ShapeView.swift */; };
+		2D2497BF2B56D2D400CBB32D /* UIColorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497BE2B56D2D400CBB32D /* UIColorsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		2D2497AD2B56CC7700CBB32D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2D2497BA2B56CE7900CBB32D /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		2D2497BC2B56D0A800CBB32D /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
+		2D2497BE2B56D2D400CBB32D /* UIColorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		2D2497A52B56CC7600CBB32D /* SwiftUI-CodeBase */ = {
 			isa = PBXGroup;
 			children = (
+				2D2497BE2B56D2D400CBB32D /* UIColorsView.swift */,
 				2D2497A62B56CC7600CBB32D /* SwiftUI_CodeBaseApp.swift */,
 				2D2497A82B56CC7600CBB32D /* ContentView.swift */,
 				2D2497AA2B56CC7700CBB32D /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 				2D2497BB2B56CE7900CBB32D /* TextView.swift in Sources */,
 				2D2497A92B56CC7600CBB32D /* ContentView.swift in Sources */,
 				2D2497BD2B56D0A800CBB32D /* ShapeView.swift in Sources */,
+				2D2497BF2B56D2D400CBB32D /* UIColorsView.swift in Sources */,
 				2D2497A72B56CC7600CBB32D /* SwiftUI_CodeBaseApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
