@@ -17,6 +17,8 @@
 		2D2497C12B56E85600CBB32D /* IconsUIViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497C02B56E85600CBB32D /* IconsUIViews.swift */; };
 		2D2497C32B56EABF00CBB32D /* ImageUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497C22B56EABF00CBB32D /* ImageUIView.swift */; };
 		2DD8EC922B5832B5000E5492 /* FrameUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD8EC912B5832B5000E5492 /* FrameUIView.swift */; };
+		2DD8EC942B5835C6000E5492 /* BackgroundOverlayUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD8EC932B5835C6000E5492 /* BackgroundOverlayUIView.swift */; };
+		2DD8EC962B583993000E5492 /* BackgroundOverlay-ImageUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD8EC952B583993000E5492 /* BackgroundOverlay-ImageUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +33,8 @@
 		2D2497C02B56E85600CBB32D /* IconsUIViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsUIViews.swift; sourceTree = "<group>"; };
 		2D2497C22B56EABF00CBB32D /* ImageUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageUIView.swift; sourceTree = "<group>"; };
 		2DD8EC912B5832B5000E5492 /* FrameUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameUIView.swift; sourceTree = "<group>"; };
+		2DD8EC932B5835C6000E5492 /* BackgroundOverlayUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayUIView.swift; sourceTree = "<group>"; };
+		2DD8EC952B583993000E5492 /* BackgroundOverlay-ImageUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BackgroundOverlay-ImageUIView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 				2D2497C22B56EABF00CBB32D /* ImageUIView.swift */,
 				2DD8EC912B5832B5000E5492 /* FrameUIView.swift */,
 				2D2497A62B56CC7600CBB32D /* SwiftUI_CodeBaseApp.swift */,
+				2DD8EC932B5835C6000E5492 /* BackgroundOverlayUIView.swift */,
+				2DD8EC952B583993000E5492 /* BackgroundOverlay-ImageUIView.swift */,
 				2D2497A82B56CC7600CBB32D /* ContentView.swift */,
 				2D2497AA2B56CC7700CBB32D /* Assets.xcassets */,
 				2D2497AC2B56CC7700CBB32D /* Preview Content */,
@@ -155,8 +161,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DD8EC942B5835C6000E5492 /* BackgroundOverlayUIView.swift in Sources */,
 				2DD8EC922B5832B5000E5492 /* FrameUIView.swift in Sources */,
 				2D2497BB2B56CE7900CBB32D /* TextView.swift in Sources */,
+				2DD8EC962B583993000E5492 /* BackgroundOverlay-ImageUIView.swift in Sources */,
 				2D2497A92B56CC7600CBB32D /* ContentView.swift in Sources */,
 				2D2497BD2B56D0A800CBB32D /* ShapeView.swift in Sources */,
 				2D2497C12B56E85600CBB32D /* IconsUIViews.swift in Sources */,
