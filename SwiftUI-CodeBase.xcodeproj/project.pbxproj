@@ -11,14 +11,15 @@
 		2D2497A92B56CC7600CBB32D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497A82B56CC7600CBB32D /* ContentView.swift */; };
 		2D2497AB2B56CC7700CBB32D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D2497AA2B56CC7700CBB32D /* Assets.xcassets */; };
 		2D2497AE2B56CC7700CBB32D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D2497AD2B56CC7700CBB32D /* Preview Assets.xcassets */; };
-		2D2497BB2B56CE7900CBB32D /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497BA2B56CE7900CBB32D /* TextView.swift */; };
-		2D2497BD2B56D0A800CBB32D /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497BC2B56D0A800CBB32D /* ShapeView.swift */; };
+		2D2497BB2B56CE7900CBB32D /* TextUIViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497BA2B56CE7900CBB32D /* TextUIViews.swift */; };
+		2D2497BD2B56D0A800CBB32D /* ShapeUIViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497BC2B56D0A800CBB32D /* ShapeUIViews.swift */; };
 		2D2497BF2B56D2D400CBB32D /* UIColorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497BE2B56D2D400CBB32D /* UIColorsView.swift */; };
 		2D2497C12B56E85600CBB32D /* IconsUIViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497C02B56E85600CBB32D /* IconsUIViews.swift */; };
 		2D2497C32B56EABF00CBB32D /* ImageUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2497C22B56EABF00CBB32D /* ImageUIView.swift */; };
 		2DD8EC922B5832B5000E5492 /* FrameUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD8EC912B5832B5000E5492 /* FrameUIView.swift */; };
 		2DD8EC942B5835C6000E5492 /* BackgroundOverlayUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD8EC932B5835C6000E5492 /* BackgroundOverlayUIView.swift */; };
 		2DD8EC962B583993000E5492 /* BackgroundOverlay-ImageUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD8EC952B583993000E5492 /* BackgroundOverlay-ImageUIView.swift */; };
+		2DF072A62B7A7E8700412AB5 /* StacksUIViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF072A52B7A7E8700412AB5 /* StacksUIViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,14 +28,15 @@
 		2D2497A82B56CC7600CBB32D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2D2497AA2B56CC7700CBB32D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D2497AD2B56CC7700CBB32D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		2D2497BA2B56CE7900CBB32D /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
-		2D2497BC2B56D0A800CBB32D /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
+		2D2497BA2B56CE7900CBB32D /* TextUIViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextUIViews.swift; sourceTree = "<group>"; };
+		2D2497BC2B56D0A800CBB32D /* ShapeUIViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeUIViews.swift; sourceTree = "<group>"; };
 		2D2497BE2B56D2D400CBB32D /* UIColorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorsView.swift; sourceTree = "<group>"; };
 		2D2497C02B56E85600CBB32D /* IconsUIViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsUIViews.swift; sourceTree = "<group>"; };
 		2D2497C22B56EABF00CBB32D /* ImageUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageUIView.swift; sourceTree = "<group>"; };
 		2DD8EC912B5832B5000E5492 /* FrameUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameUIView.swift; sourceTree = "<group>"; };
 		2DD8EC932B5835C6000E5492 /* BackgroundOverlayUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayUIView.swift; sourceTree = "<group>"; };
 		2DD8EC952B583993000E5492 /* BackgroundOverlay-ImageUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BackgroundOverlay-ImageUIView.swift"; sourceTree = "<group>"; };
+		2DF072A52B7A7E8700412AB5 /* StacksUIViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksUIViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 		2D2497A52B56CC7600CBB32D /* SwiftUI-CodeBase */ = {
 			isa = PBXGroup;
 			children = (
+				2DF072A52B7A7E8700412AB5 /* StacksUIViews.swift */,
 				2D2497BE2B56D2D400CBB32D /* UIColorsView.swift */,
 				2D2497C02B56E85600CBB32D /* IconsUIViews.swift */,
 				2D2497C22B56EABF00CBB32D /* ImageUIView.swift */,
@@ -77,8 +80,8 @@
 				2D2497A82B56CC7600CBB32D /* ContentView.swift */,
 				2D2497AA2B56CC7700CBB32D /* Assets.xcassets */,
 				2D2497AC2B56CC7700CBB32D /* Preview Content */,
-				2D2497BA2B56CE7900CBB32D /* TextView.swift */,
-				2D2497BC2B56D0A800CBB32D /* ShapeView.swift */,
+				2D2497BA2B56CE7900CBB32D /* TextUIViews.swift */,
+				2D2497BC2B56D0A800CBB32D /* ShapeUIViews.swift */,
 			);
 			path = "SwiftUI-CodeBase";
 			sourceTree = "<group>";
@@ -163,13 +166,14 @@
 			files = (
 				2DD8EC942B5835C6000E5492 /* BackgroundOverlayUIView.swift in Sources */,
 				2DD8EC922B5832B5000E5492 /* FrameUIView.swift in Sources */,
-				2D2497BB2B56CE7900CBB32D /* TextView.swift in Sources */,
+				2D2497BB2B56CE7900CBB32D /* TextUIViews.swift in Sources */,
 				2DD8EC962B583993000E5492 /* BackgroundOverlay-ImageUIView.swift in Sources */,
 				2D2497A92B56CC7600CBB32D /* ContentView.swift in Sources */,
-				2D2497BD2B56D0A800CBB32D /* ShapeView.swift in Sources */,
+				2D2497BD2B56D0A800CBB32D /* ShapeUIViews.swift in Sources */,
 				2D2497C12B56E85600CBB32D /* IconsUIViews.swift in Sources */,
 				2D2497C32B56EABF00CBB32D /* ImageUIView.swift in Sources */,
 				2D2497BF2B56D2D400CBB32D /* UIColorsView.swift in Sources */,
+				2DF072A62B7A7E8700412AB5 /* StacksUIViews.swift in Sources */,
 				2D2497A72B56CC7600CBB32D /* SwiftUI_CodeBaseApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
